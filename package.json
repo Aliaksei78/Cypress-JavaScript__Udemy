@@ -1,0 +1,14 @@
+{
+  "name": "udemy_course",
+  "version": "1.0.0",
+  "description": "Lectures: 102",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Shetty",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
